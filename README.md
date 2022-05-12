@@ -1,11 +1,9 @@
 # Sports-Trends
 
 ***
-The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference in popularity. This will be compared with the Google Trends data to see if the rankings are the same.
+The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference between the leagues. The results will be compared with the Google Trends data to see if the rankings are similar.
 
->Findings and Observations: 
-
-We compare the British Premier League, the National Football League (NFL), the National Basketball Association (NBA) and the Major League Baseball (MLB). We examine the data from Google Trends and the Twitter API. Twitter averages more than 500 millions tweets per day and Google averages approximately 8.5 billion searches per day. 
+The data is based on th British Premier League, the National Football League (NFL), the National Basketball Association (NBA) and the Major League Baseball (MLB). The data is extracted from the Google Trends site and the Twitter API. Twitter averages more than 500 millions tweets per day and Google averages approximately 8.5 billion searches per day. 
 
 Here is a graph showing the proportions of the total tweet count for each league. The NFL and the Premier League have nearly double the amount of tweets of the NBA and the MLB. The NFL had the highest tweet Count. 
 
