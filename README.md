@@ -17,5 +17,3 @@ Here is a graph showing the proportions of the total tweet count for each league
 The Google Trends data from the past week reveals different rankings than the Twitter data. Google ranks the NBA as the clear leader, with the NFL in second, the Premier League in third and the MLB in fourth. The data from the past week ranked the sports leagues the same as the Google Trend Data from the past year, with similar proportions in the pie chart.
 
 <img align="center" src="Graphs/League Google Searches Week.png" width="500" />
-
-<img align="center" src="Graphs/League Google Searches Year.png" width="500" />
