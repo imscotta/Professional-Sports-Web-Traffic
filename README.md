@@ -1,4 +1,4 @@
-# Sports-Trends
+# Professional Sports Web Traffic
 
 The amount of tweets for the twitter accounts for each team and league in each of the top professional sports leagues will be counted to determine if there is a significant difference between the leagues. The results will be compared with the Google Trends data to see if the rankings are similar.
 
@@ -8,11 +8,7 @@ Here is a graph showing the proportions of the total tweet count for each league
 
 <img align="center" src="Graphs/Tweet League %25.png" width="500" />
 
-Here is a graph comparing the tweet counts for each league. The premier league had the highest average per team.
-
-<img align="center" src="Graphs/Tweet Histogram.png" width="500" />
-
-After conducting the ANOVA test, it was revealed that the p value for the twitter data is .01 and therefore there are significant differences in the tweet counts per league. As a result, we can conclude that based on the amount of tweets referencing their team and league accounts, the Premier League and NFL are the most discussed sports leagues in the world. This supports my hypothesis that there would be noticeable differences between the leagues. The TTest comparing the NFL and Premier League suggests there is not a significant difference between them. Its noteworthy that the NFL is not in season and would have more tweets if it were.
+After conducting the ANOVA test, it was revealed that the p value for the Twitter data is .01 and therefore there are significant differences in the tweet counts per league. As a result, we can conclude that based on the amount of tweets referencing their team and league accounts, the Premier League and NFL are the most discussed sports leagues in the world. This supports my hypothesis that there would be noticeable differences between the leagues. The TTest comparing the NFL and Premier League suggests there is not a significant difference between them. Its noteworthy that the NFL is not in season and would have more tweets if it were.
 
 The Google Trends data from the past week reveals different rankings than the Twitter data. Google ranks the NBA as the clear leader, with the NFL in second, the Premier League in third and the MLB in fourth. The data from the past week ranked the sports leagues the same as the Google Trend Data from the past year, with similar proportions in the pie chart.
 
